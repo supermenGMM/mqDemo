@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>rabbitMQDemo1</groupId>
   <artifactId>rabbitMQDemo1</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>dev-SNAPSHOT</version>
   <dependencies>
   	    <dependency>  
             <groupId>com.rabbitmq</groupId>  
