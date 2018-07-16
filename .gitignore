@@ -10,5 +10,3 @@ log/
 */.gwt/*
 .gwt/
 .springBeans
-pom.xml
-
