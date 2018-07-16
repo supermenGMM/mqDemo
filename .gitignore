@@ -1,0 +1,14 @@
+*.class
+.settings*
+*.project
+*target*
+.classpath
+*/.gitignore
+*META-INF*
+*gwt-unitCache*
+log/
+*/.gwt/*
+.gwt/
+.springBeans
+pom.xml
+
